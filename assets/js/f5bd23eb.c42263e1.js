@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmi_website_dokku=self.webpackChunkmi_website_dokku||[]).push([[3636],{1759:e=>{e.exports=JSON.parse('{"permalink":"/mi-website-dokku/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmi_website_dokku=self.webpackChunkmi_website_dokku||[]).push([[4610],{852:e=>{e.exports=JSON.parse('{"permalink":"/mi-website-dokku/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
